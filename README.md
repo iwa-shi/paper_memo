@@ -1,9 +1,12 @@
+<img src=https://github.com/iwa-shi/paper_memo/assets/46859277/dd06b4cc-42d0-424a-98ed-224cc0e19115 width="60%" />
+
 # paper_memo
-There are summaries of the papers I have read in Issues.  
-Most of them are aboud **Learned compression**, **Super resolution**, **Image restoration**, and **GANs**. 
+This repository contains summaries of the papers I have read in [Issues](https://github.com/iwa-shi/paper_memo/issues?q=is%3Aissue+is%3Aopen+).  
+Most of them are aboud **Learned compression**, **Super resolution**, **Image restoration**, and **GANs**.  
 The images in the summaries are screenshots from the papers.    
 
-Note: They are personal notes and may contain mistakes.
+
+> **Note**: These are personal notes, and there may be errors in the content.
 
 ### Tag List
 - [Image Compression](https://github.com/iwa-shi/paper_memo/issues?q=is%3Aissue+is%3Aopen+label%3Aimage-compression)
