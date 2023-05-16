@@ -19,7 +19,7 @@ The images in the summaries are screenshots from the papers.
 
 ---
 
-機械学習論文のメモをIssuesにまとめています．  
+機械学習論文のメモをIssuesにまとめています．元々は研究室内で共有していたものです.    
 Learned image compression、Super resolution、Image restoration、GANに関する論文が多いです．  
 画像は論文中のものを使用しています.    
 
