@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-Link: 
+## 🔗Link: 
 
-# 概要
+# 📋Overview
 - 
 
-# 詳細
+# 📝Details
 -
